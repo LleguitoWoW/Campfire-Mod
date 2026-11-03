@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Campamento
+## Notes: Panel del campamento, boton de minimapa y fila de buffs para servidores con Campamento_server.lua (ALE/Eluna).
+## Author: Tu servidor
+## Version: 1.23
+## SavedVariables: CampamentoDB
+Campamento.lua
