@@ -428,6 +428,9 @@ Final values are set by each module when casting the spell (`CastCustomSpell`); 
     └── Campamento.lua
 ```
 
+<img width="842" height="555" alt="1" src="https://github.com/user-attachments/assets/83685126-3f68-4dab-8c4a-e1dbbc2d15b5" />
+
+
 ## Status
 
 Work in progress and under testing. Balance values are tunable and may change.
